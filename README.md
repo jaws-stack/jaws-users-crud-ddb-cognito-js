@@ -1,4 +1,4 @@
-#awsm-users-crud-ddb-jwt-js
+#awsm-users-crud-ddb-cognito-js
 
 An `aws-module` containing a group of lambdas that perform user crud operations.
 
@@ -6,4 +6,4 @@ An `aws-module` containing a group of lambdas that perform user crud operations.
 * AWS Lambda
 * Javascript
 * DynamoDB
-* JSON Web Tokens
+* AWS Cognito
